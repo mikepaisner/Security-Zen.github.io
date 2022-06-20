@@ -85,3 +85,15 @@ ul.posts li {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #ffffff;}
+
+.sechead {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    line-height: 1.4;
+    font-family: 'Cabin', arial, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+    overflow-wrap: break-word;
+    color: rgb(27, 27, 27);
+}
