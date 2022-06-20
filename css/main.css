@@ -45,10 +45,11 @@ ul.posts li {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #ffffff;
+  color: #999;
   padding: 16px;
   font-size: 16px;
+  font-weight: bold;
   border: none;
 }
 
@@ -83,4 +84,4 @@ ul.posts li {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #ffffff;}
