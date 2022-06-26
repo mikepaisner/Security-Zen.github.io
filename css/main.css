@@ -88,12 +88,14 @@ ul.posts li {
 
 .sechead {
     font-size: 24px;
-    margin-top: 0;
-    margin-bottom: 40px;
-    line-height: 1.4;
+    line-height: 33.6px;
     font-family: 'Cabin', arial, sans-serif;
     letter-spacing: 1px;
     font-weight: 700;
     overflow-wrap: break-word;
-    color: rgb(27, 27, 27);
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    test-transform: uppercase;
 }
